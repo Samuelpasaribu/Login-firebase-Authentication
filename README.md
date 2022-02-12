@@ -5,5 +5,5 @@ login system with javascript using firebase realtime database is very simple wit
 register and login page (from scratch) with authentication using javascript
 authentication with validation, encription and keep me logged in function
 firebase authentication.
-
+<br>
 <a href="https://www.samuelpasaribu.com/2022/02/login-authentication-firebase-web.html">READ MORE</a>
